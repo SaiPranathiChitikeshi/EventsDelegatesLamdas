@@ -1,0 +1,12 @@
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\bin\Debug\netcoreapp3.1\Lamda_expressions_for_strings.exe
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\bin\Debug\netcoreapp3.1\Lamda_expressions_for_strings.deps.json
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\bin\Debug\netcoreapp3.1\Lamda_expressions_for_strings.runtimeconfig.json
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\bin\Debug\netcoreapp3.1\Lamda_expressions_for_strings.runtimeconfig.dev.json
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\bin\Debug\netcoreapp3.1\Lamda_expressions_for_strings.dll
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\bin\Debug\netcoreapp3.1\Lamda_expressions_for_strings.pdb
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\obj\Debug\netcoreapp3.1\Lamda_expressions_for_strings.AssemblyInfoInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\obj\Debug\netcoreapp3.1\Lamda_expressions_for_strings.AssemblyInfo.cs
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\obj\Debug\netcoreapp3.1\Lamda_expressions_for_strings.csproj.CoreCompileInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\obj\Debug\netcoreapp3.1\Lamda_expressions_for_strings.dll
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\obj\Debug\netcoreapp3.1\Lamda_expressions_for_strings.pdb
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions_for_strings\Lamda_expressions_for_strings\obj\Debug\netcoreapp3.1\Lamda_expressions_for_strings.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\bin\Debug\netcoreapp3.1\Lamda_expressions.exe
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\bin\Debug\netcoreapp3.1\Lamda_expressions.deps.json
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\bin\Debug\netcoreapp3.1\Lamda_expressions.runtimeconfig.json
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\bin\Debug\netcoreapp3.1\Lamda_expressions.runtimeconfig.dev.json
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\bin\Debug\netcoreapp3.1\Lamda_expressions.dll
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\bin\Debug\netcoreapp3.1\Lamda_expressions.pdb
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\obj\Debug\netcoreapp3.1\Lamda_expressions.csprojAssemblyReference.cache
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\obj\Debug\netcoreapp3.1\Lamda_expressions.AssemblyInfoInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\obj\Debug\netcoreapp3.1\Lamda_expressions.AssemblyInfo.cs
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\obj\Debug\netcoreapp3.1\Lamda_expressions.csproj.CoreCompileInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\obj\Debug\netcoreapp3.1\Lamda_expressions.dll
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\obj\Debug\netcoreapp3.1\Lamda_expressions.pdb
+C:\Users\Sai Baba\Desktop\innRoad\Lamda_expressions\Lamda_expressions\obj\Debug\netcoreapp3.1\Lamda_expressions.genruntimeconfig.cache
